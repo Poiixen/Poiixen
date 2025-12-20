@@ -1,5 +1,3 @@
-# Poiixen
-
 <p align="center"></p>
 
 ###
@@ -45,16 +43,17 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poiixen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Poiixen&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Poiixen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=What%20I've%20been%20up%20to" height="2" alt="stats graph"  />
+</div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poiixen/Poiixen/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poiixen/Poiixen/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Poiixen/Poiixen/output/pacman-contribution-graph.svg">
-</picture>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+</div>
 
 ###
