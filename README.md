@@ -47,8 +47,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poiixen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Poiixen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
-</div>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=Poiixen&theme=dracula&hide_border=true&mode=weekly)](https://git.io/streak-stats)</div>
 
 ###
 
