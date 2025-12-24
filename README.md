@@ -53,10 +53,10 @@ $$$$$$$$\ $$\   $$\               $$\
 <br>
 
 <div align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poiixen&theme=dracula" alt="Profile Summary" />
+  <img width="550" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poiixen&theme=dracula" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <img width="100" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poiixen&theme=dracula" alt="Repos per Language" />
-  <img width="100" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poiixen&theme=dracula" alt="Most Commit Language" />
+  <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poiixen&theme=dracula" alt="Repos per Language" />
+  <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poiixen&theme=dracula" alt="Most Commit Language" />
 </div>
