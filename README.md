@@ -46,18 +46,6 @@ $$$$$$$$\ $$\   $$\               $$\
   </a>
 </div>
 
-
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=poiixen&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poiixen&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Poiixen.Poiixen&" />
 </div>
