@@ -62,24 +62,6 @@ $$$$$$$$\ $$\   $$\               $$\
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Poiixen.Poiixen&" />
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poiixen&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br>
 
@@ -91,10 +73,10 @@ $$$$$$$$\ $$\   $$\               $$\
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="30%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poiixen&theme=dracula" alt="Repos per Language" />
       </td>
-      <td width="50%">
+      <td width="30%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poiixen&theme=dracula" alt="Most Commit Language" />
       </td>
     </tr>
