@@ -62,23 +62,13 @@ $$$$$$$$\ $$\   $$\               $$\
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Poiixen.Poiixen&" />
 </div>
 
-
 <br>
 
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poiixen&theme=dracula" alt="Profile Summary" />
+  <img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poiixen&theme=dracula" alt="Profile Summary" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="30%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poiixen&theme=dracula" alt="Repos per Language" />
-      </td>
-      <td width="30%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poiixen&theme=dracula" alt="Most Commit Language" />
-      </td>
-    </tr>
-</table>
+  <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poiixen&theme=dracula" alt="Repos per Language" />
+  <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poiixen&theme=dracula" alt="Most Commit Language" />
 </div>
