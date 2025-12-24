@@ -85,14 +85,18 @@ $$$$$$$$\ $$\   $$\               $$\
 
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poiixen&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poiixen&theme=dracula" alt="Profile Summary" />
 </div>
 
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Poiixen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="140" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Poiixen&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="140" alt="stats graph" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poiixen&theme=dracula" alt="Repos per Language" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Poiixen&theme=dracula" alt="Most Commit Language" />
+      </td>
+    </tr>
+</table>
 </div>
